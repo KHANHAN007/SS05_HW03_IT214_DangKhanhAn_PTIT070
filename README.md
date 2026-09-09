@@ -1,10 +1,5 @@
 # SS05 HW03: Random LoadBalancer cho product-service
 
-**Sinh viên:** Dang Khanh An  
-**Lớp:** IT214  
-**Mã:** PTIT070  
-**Bài:** SPRING-CLOUD-S05-EX03
-
 ## 1. Nội dung bài làm
 
 Dự án mô phỏng hệ thống VietMart gồm:
